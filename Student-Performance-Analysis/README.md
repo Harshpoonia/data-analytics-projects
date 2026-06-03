@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project analyzes student performance data to identify factors that influence academic achievement. The analysis focuses on student scores in Mathematics, Reading, and Writing, along with demographic and educational factors such as gender, parental education level, and test preparation course completion.
+This project analyzes student performance data to identify factors that influence academic achievement. The analysis focuses on Mathematics, Reading, and Writing scores along with demographic and educational factors such as gender, parental education level, and test preparation course completion.
+
+The project uses Exploratory Data Analysis (EDA) and Data Visualization techniques to uncover meaningful patterns and relationships within the dataset.
 
 ---
 
@@ -25,6 +27,8 @@ The dataset contains the following attributes:
 
 - Python
 - Pandas
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 - VS Code
 - Git & GitHub
@@ -35,37 +39,52 @@ The dataset contains the following attributes:
 
 The following analyses were performed:
 
-### 1. Feature Engineering
+### Feature Engineering
 - Created an `average_score` feature to measure overall student performance.
 
-### 2. Overall Student Performance
+### Overall Student Performance
 - Calculated average, highest, and lowest student scores.
 - Compared subject-wise performance.
 
-### 3. Gender-wise Analysis
+### Gender-wise Analysis
 - Compared academic performance between male and female students.
 
-### 4. Test Preparation Analysis
+### Test Preparation Analysis
 - Evaluated the impact of test preparation courses on student performance.
 
-### 5. Parental Education Analysis
+### Parental Education Analysis
 - Studied the relationship between parental education level and student achievement.
 
-### 6. Subject-wise Analysis
+### Subject-wise Analysis
 - Compared Mathematics, Reading, and Writing scores.
 
-### 7. Correlation Analysis
+### Correlation Analysis
 - Examined relationships between different subjects.
+
+---
+
+## Visualizations
+
+The project includes the following visualizations:
+
+- Gender-wise Performance Analysis
+- Test Preparation Impact Analysis
+- Parental Education Analysis
+- Subject-wise Performance Analysis
+- Score Distribution Histogram
+- Correlation Heatmap
 
 ---
 
 ## Key Findings
 
+- The overall average student score is **67.77**.
 - Female students achieved higher overall average scores than male students.
 - Male students performed better in Mathematics.
 - Students who completed the test preparation course scored significantly higher across all subjects.
 - Higher parental education levels were associated with better student performance.
-- Reading and Writing scores showed a very strong positive correlation.
+- Reading achieved the highest average score among all subjects.
+- Reading and Writing scores showed a very strong positive correlation (**0.95**).
 
 ---
 
@@ -89,7 +108,14 @@ Student-Performance-Analysis/
 
 ## Future Improvements
 
-- Add data visualizations
-- Create dashboards
-- Build predictive machine learning models
-- Perform advanced statistical analysis
+- Develop an interactive dashboard using Streamlit or Power BI.
+- Apply machine learning models to predict student performance.
+- Perform advanced statistical analysis to identify significant factors affecting academic achievement.
+- Expand the analysis using larger educational datasets.
+
+---
+
+## Author
+
+**Harsh Poonia**  
+MCA Student | Data Analytics & Data Science Enthusiast
