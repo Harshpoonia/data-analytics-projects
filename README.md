@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), visualization, and extracting actionable insights from real-world datasets.
+A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, and extracting actionable insights from real-world datasets.
 
 ## Technologies Used
 
@@ -29,27 +29,88 @@ A collection of data analytics projects built using Python and industry-standard
 
 **Tools Used:** Pandas, Matplotlib, Seaborn
 
+**Status:** Completed
+
+---
+
+### 2. Superstore Business Analytics
+
+**Objective:** Analyze retail sales data to identify revenue trends, profitability drivers, customer behavior patterns, and business opportunities.
+
+**Key Analyses:**
+
+* Dataset Overview
+* Data Cleaning
+* Feature Engineering
+* Sales by Region
+* Profit by Region
+* Sales by Category
+* Profit by Category
+* Monthly Sales Trends
+* Customer Analysis
+* Product Performance Analysis
+* Discount vs Profit Analysis
+* KPI Analysis
+
+**Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Status:** In Progress
+
 ## Repository Structure
 
 ```text
 data-analytics-projects/
 │
-└── Student-Performance-Analysis/
+├── Project-1-Student-Performance-Analysis/
+│   ├── data/
+│   ├── images/
+│   ├── notebooks/
+│   └── README.md
+│
+└── Project-2-Superstore-Business-Analytics/
     ├── data/
     ├── images/
     ├── notebooks/
     └── README.md
 ```
 
-## Future Projects
+## Learning Progression
 
-* Sales Data Analysis
-* Netflix Data Analysis
+### Project 1
+
+Student Performance Analysis
+
+Skills Developed:
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* Correlation Analysis
+
+### Project 2
+
+Superstore Business Analytics
+
+Skills Developed:
+
+* Business Analytics
+* Feature Engineering
+* KPI Analysis
+* Time-Series Analysis
+* Profitability Analysis
+* Business Insights & Recommendations
+
+## Upcoming Projects
+
+* Customer Segmentation Analysis
 * Customer Churn Analysis
+* Netflix Data Analysis
 * E-commerce Analytics
 * Financial Data Analysis
+* Predictive Analytics
 
 ## Author
 
 **Harsh Poonia**
-MCA Student | Data Analytics & Data Science Enthusiast
+
+MCA Student | Aspiring Data Analyst | Data Science Enthusiast
