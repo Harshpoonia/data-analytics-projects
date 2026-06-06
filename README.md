@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, and extracting actionable insights from real-world datasets.
+A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, business analytics, and extracting actionable insights from real-world datasets.
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@ A collection of data analytics projects built using Python and industry-standard
 
 ### 2. Superstore Business Analytics
 
-**Objective:** Analyze retail sales data to identify revenue trends, profitability drivers, customer behavior patterns, and business opportunities.
+**Objective:** Analyze retail sales data to uncover insights related to revenue generation, profitability, customer behavior, product performance, and regional trends.
 
 **Key Analyses:**
 
@@ -47,14 +47,28 @@ A collection of data analytics projects built using Python and industry-standard
 * Sales by Category
 * Profit by Category
 * Monthly Sales Trends
-* Customer Analysis
-* Product Performance Analysis
+* Monthly Profit Trends
+* Top Products Analysis
+* Top Customers Analysis
 * Discount vs Profit Analysis
+* Correlation Analysis
 * KPI Analysis
+* Business Insights & Recommendations
 
 **Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
 
-**Status:** In Progress
+**Status:** Completed
+
+**Key Findings:**
+
+* West region generated the highest sales and profit.
+* Technology was the most profitable category.
+* Furniture showed strong sales but low profitability.
+* November recorded the highest sales.
+* December generated the highest profit.
+* High discounts significantly reduced profit margins.
+
+---
 
 ## Repository Structure
 
@@ -65,40 +79,49 @@ data-analytics-projects/
 │   ├── data/
 │   ├── images/
 │   ├── notebooks/
+│   ├── requirements.txt
 │   └── README.md
 │
 └── Project-2-Superstore-Business-Analytics/
     ├── data/
     ├── images/
     ├── notebooks/
+    ├── requirements.txt
     └── README.md
 ```
 
 ## Learning Progression
 
-### Project 1
+### Project 1 – Student Performance Analysis
 
-Student Performance Analysis
-
-Skills Developed:
+**Skills Developed:**
 
 * Data Cleaning
 * Exploratory Data Analysis
 * Data Visualization
 * Correlation Analysis
+* Insight Generation
 
-### Project 2
+### Project 2 – Superstore Business Analytics
 
-Superstore Business Analytics
-
-Skills Developed:
+**Skills Developed:**
 
 * Business Analytics
 * Feature Engineering
 * KPI Analysis
 * Time-Series Analysis
+* Customer Analytics
+* Product Performance Analysis
 * Profitability Analysis
 * Business Insights & Recommendations
+
+## Portfolio Highlights
+
+* Analyzed over **10,000+ records** across multiple datasets.
+* Built end-to-end analytics projects from data cleaning to business recommendations.
+* Applied exploratory data analysis, feature engineering, KPI tracking, and profitability analysis.
+* Created professional visualizations and documented findings through GitHub projects.
+* Developed a structured analytics workflow aligned with real-world business problems.
 
 ## Upcoming Projects
 
@@ -106,7 +129,7 @@ Skills Developed:
 * Customer Churn Analysis
 * Netflix Data Analysis
 * E-commerce Analytics
-* Financial Data Analysis
+* Sales Forecasting
 * Predictive Analytics
 
 ## Author
