@@ -70,6 +70,28 @@ A collection of data analytics projects built using Python and industry-standard
 
 ---
 
+### 3. Customer Segmentation & RFM Analysis
+
+**Objective:** Segment customers based on purchasing behavior and customer value using RFM (Recency, Frequency, Monetary) Analysis.
+
+**Key Analyses:**
+
+* Data Cleaning
+* Revenue Analysis
+* Customer Purchase Behavior
+* Country-wise Revenue Analysis
+* Product Performance Analysis
+* RFM Analysis
+* Customer Segmentation
+* Segment-wise Insights
+* Business Recommendations
+
+**Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Status:** In Progress
+
+---
+
 ## Repository Structure
 
 ```text
@@ -82,7 +104,14 @@ data-analytics-projects/
 │   ├── requirements.txt
 │   └── README.md
 │
-└── Project-2-Superstore-Business-Analytics/
+├── Project-2-Superstore-Business-Analytics/
+│   ├── data/
+│   ├── images/
+│   ├── notebooks/
+│   ├── requirements.txt
+│   └── README.md
+│
+└── Project-3-Customer-Segmentation-RFM-Analysis/
     ├── data/
     ├── images/
     ├── notebooks/
@@ -115,25 +144,36 @@ data-analytics-projects/
 * Profitability Analysis
 * Business Insights & Recommendations
 
+### Project 3 – Customer Segmentation & RFM Analysis
+
+**Skills Being Developed:**
+
+* Customer Analytics
+* RFM Analysis
+* Customer Segmentation
+* Revenue Analysis
+* Customer Behavior Analysis
+* Business Strategy Development
+* Data-Driven Recommendations
+
 ## Portfolio Highlights
 
-* Analyzed over **10,000+ records** across multiple datasets.
+* Analyzed over **500,000+ records** across multiple real-world datasets.
 * Built end-to-end analytics projects from data cleaning to business recommendations.
-* Applied exploratory data analysis, feature engineering, KPI tracking, and profitability analysis.
+* Applied exploratory data analysis, feature engineering, KPI tracking, customer analytics, and profitability analysis.
 * Created professional visualizations and documented findings through GitHub projects.
 * Developed a structured analytics workflow aligned with real-world business problems.
 
-## Upcoming Projects
+## Upcoming Analytics Projects
 
-* Customer Segmentation Analysis
-* Customer Churn Analysis
+* Marketing Campaign Analysis
+* HR Analytics
+* Supply Chain Analytics
 * Netflix Data Analysis
 * E-commerce Analytics
-* Sales Forecasting
-* Predictive Analytics
 
 ## Author
 
 **Harsh Poonia**
 
-MCA Student | Aspiring Data Analyst | Data Science Enthusiast
+MCA Student | Aspiring Data Analyst | Data Analytics Enthusiast
