@@ -179,7 +179,7 @@ Project-3-Customer-Segmentation-RFM-Analysis/
 ├── data/
 ├── images/
 ├── notebooks/
-│   └── Customer_Segmentation_RFM_Analysis.ipynb
+│   └──Analysis.ipynb
 ├── requirements.txt
 └── README.md
 ```
