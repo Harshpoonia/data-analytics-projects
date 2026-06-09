@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, business analytics, and extracting actionable insights from real-world datasets.
+A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, business analytics, customer analytics, and extracting actionable insights from real-world datasets.
 
 ## Technologies Used
 
@@ -77,18 +77,27 @@ A collection of data analytics projects built using Python and industry-standard
 **Key Analyses:**
 
 * Data Cleaning
-* Revenue Analysis
-* Customer Purchase Behavior
-* Country-wise Revenue Analysis
+* Revenue by Country
 * Product Performance Analysis
+* Monthly Revenue Trends
+* Customer Purchase Behavior
 * RFM Analysis
 * Customer Segmentation
-* Segment-wise Insights
+* Segment Analysis
 * Business Recommendations
 
 **Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
 
-**Status:** In Progress
+**Status:** Completed
+
+**Key Findings:**
+
+* The United Kingdom generated the highest revenue.
+* PAPER CRAFT, LITTLE BIRDIE was the highest revenue-generating product.
+* Revenue peaked during the final quarter of 2011.
+* Customer spending was concentrated among a small group of high-value customers.
+* Lost Customers and Champions represented the largest customer segments.
+* RFM Analysis identified clear opportunities for customer retention and loyalty initiatives.
 
 ---
 
@@ -146,21 +155,23 @@ data-analytics-projects/
 
 ### Project 3 – Customer Segmentation & RFM Analysis
 
-**Skills Being Developed:**
+**Skills Developed:**
 
 * Customer Analytics
-* RFM Analysis
-* Customer Segmentation
 * Revenue Analysis
 * Customer Behavior Analysis
+* RFM Analysis
+* Customer Segmentation
 * Business Strategy Development
 * Data-Driven Recommendations
+* Customer Retention Analysis
 
 ## Portfolio Highlights
 
-* Analyzed over **500,000+ records** across multiple real-world datasets.
+* Analyzed over **550,000+ records** across multiple real-world datasets.
 * Built end-to-end analytics projects from data cleaning to business recommendations.
-* Applied exploratory data analysis, feature engineering, KPI tracking, customer analytics, and profitability analysis.
+* Applied exploratory data analysis, feature engineering, KPI tracking, customer analytics, profitability analysis, and customer segmentation.
+* Performed RFM Analysis to identify high-value customers and customer retention opportunities.
 * Created professional visualizations and documented findings through GitHub projects.
 * Developed a structured analytics workflow aligned with real-world business problems.
 
@@ -169,7 +180,6 @@ data-analytics-projects/
 * Marketing Campaign Analysis
 * HR Analytics
 * Supply Chain Analytics
-* Netflix Data Analysis
 * E-commerce Analytics
 
 ## Author
