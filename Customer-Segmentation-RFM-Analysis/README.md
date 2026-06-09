@@ -200,3 +200,7 @@ Project-3-Customer-Segmentation-RFM-Analysis/
 ## Conclusion
 
 This project demonstrates how transaction-level retail data can be transformed into actionable customer insights using RFM Analysis and customer segmentation techniques. The results provide a structured framework for identifying valuable customers, improving retention strategies, and supporting data-driven business decisions.
+## Author
+Harsh Poonia
+
+MCA Student | Aspiring Data Analyst | Data Science Enthusiast
