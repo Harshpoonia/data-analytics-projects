@@ -1,148 +1,51 @@
-# Data Analytics Projects
+# Hi, I'm Harsh Poonia 👋
 
-A collection of data analytics projects built using Python and industry-standard data analysis libraries. These projects focus on data cleaning, exploratory data analysis (EDA), feature engineering, data visualization, business analytics, customer analytics, and extracting actionable insights from real-world datasets.
+🎓 MCA Student at Thapar Institute of Engineering & Technology
 
-## Technologies Used
+## About Me
+
+I am an MCA student with a strong interest in Data Analytics, Data Science, and Software Development. I enjoy transforming raw data into actionable insights, solving business problems through analytics, and continuously improving my technical skills through hands-on projects.
+
+My current focus is building a strong portfolio in Data Analytics and Machine Learning while preparing for internships and full-time opportunities in Data Analytics, Data Science, and Software Development.
+
+## Tech Stack
+
+### Programming Languages
 
 * Python
+* SQL
+* C++
+
+### Data Analytics & Data Science
+
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
-* Git & GitHub
+* Scikit-Learn
 
-## Projects
+### Tools & Technologies
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+## Data Analytics Portfolio Projects
 
 ### 1. Student Performance Analysis
 
-**Objective:** Analyze student academic performance and identify factors that influence achievement.
-
-**Key Analyses:**
-
-* Overall Student Performance
-* Gender-wise Analysis
-* Test Preparation Impact
-* Parental Education Analysis
-* Subject-wise Performance
-* Correlation Analysis
-
-**Tools Used:** Pandas, Matplotlib, Seaborn
-
-**Status:** Completed
-
----
-
-### 2. Superstore Business Analytics
-
-**Objective:** Analyze retail sales data to uncover insights related to revenue generation, profitability, customer behavior, product performance, and regional trends.
-
-**Key Analyses:**
-
-* Dataset Overview
-* Data Cleaning
-* Feature Engineering
-* Sales by Region
-* Profit by Region
-* Sales by Category
-* Profit by Category
-* Monthly Sales Trends
-* Monthly Profit Trends
-* Top Products Analysis
-* Top Customers Analysis
-* Discount vs Profit Analysis
-* Correlation Analysis
-* KPI Analysis
-* Business Insights & Recommendations
-
-**Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
-
-**Status:** Completed
-
-**Key Findings:**
-
-* West region generated the highest sales and profit.
-* Technology was the most profitable category.
-* Furniture showed strong sales but low profitability.
-* November recorded the highest sales.
-* December generated the highest profit.
-* High discounts significantly reduced profit margins.
-
----
-
-### 3. Customer Segmentation & RFM Analysis
-
-**Objective:** Segment customers based on purchasing behavior and customer value using RFM (Recency, Frequency, Monetary) Analysis.
-
-**Key Analyses:**
+**Skills Applied:**
 
 * Data Cleaning
-* Revenue by Country
-* Product Performance Analysis
-* Monthly Revenue Trends
-* Customer Purchase Behavior
-* RFM Analysis
-* Customer Segmentation
-* Segment Analysis
-* Business Recommendations
-
-**Tools Used:** Pandas, NumPy, Matplotlib, Seaborn
-
-**Status:** Completed
-
-**Key Findings:**
-
-* The United Kingdom generated the highest revenue.
-* PAPER CRAFT, LITTLE BIRDIE was the highest revenue-generating product.
-* Revenue peaked during the final quarter of 2011.
-* Customer spending was concentrated among a small group of high-value customers.
-* Lost Customers and Champions represented the largest customer segments.
-* RFM Analysis identified clear opportunities for customer retention and loyalty initiatives.
-
----
-
-## Repository Structure
-
-```text
-data-analytics-projects/
-│
-├── Project-1-Student-Performance-Analysis/
-│   ├── data/
-│   ├── images/
-│   ├── notebooks/
-│   ├── requirements.txt
-│   └── README.md
-│
-├── Project-2-Superstore-Business-Analytics/
-│   ├── data/
-│   ├── images/
-│   ├── notebooks/
-│   ├── requirements.txt
-│   └── README.md
-│
-└── Project-3-Customer-Segmentation-RFM-Analysis/
-    ├── data/
-    ├── images/
-    ├── notebooks/
-    ├── requirements.txt
-    └── README.md
-```
-
-## Learning Progression
-
-### Project 1 – Student Performance Analysis
-
-**Skills Developed:**
-
-* Data Cleaning
-* Exploratory Data Analysis
+* Exploratory Data Analysis (EDA)
 * Data Visualization
 * Correlation Analysis
 * Insight Generation
 
-### Project 2 – Superstore Business Analytics
+### 2. Superstore Business Analytics
 
-**Skills Developed:**
+**Skills Applied:**
 
 * Business Analytics
 * Feature Engineering
@@ -151,39 +54,94 @@ data-analytics-projects/
 * Customer Analytics
 * Product Performance Analysis
 * Profitability Analysis
-* Business Insights & Recommendations
+* Business Recommendations
 
-### Project 3 – Customer Segmentation & RFM Analysis
+**Key Findings:**
 
-**Skills Developed:**
+* Identified the highest-performing region and product category.
+* Analyzed customer and product-level performance.
+* Evaluated the impact of discounts on profitability.
+* Generated business recommendations based on analytical findings.
+
+### 3. Customer Segmentation & RFM Analysis
+
+**Skills Applied:**
 
 * Customer Analytics
 * Revenue Analysis
-* Customer Behavior Analysis
 * RFM Analysis
 * Customer Segmentation
-* Business Strategy Development
-* Data-Driven Recommendations
-* Customer Retention Analysis
+* Customer Behavior Analysis
+* Business Recommendations
+
+**Key Findings:**
+
+* Identified high-value customer segments using RFM Analysis.
+* Analyzed customer purchasing behavior and spending patterns.
+* Evaluated customer engagement through recency, frequency, and monetary metrics.
+* Generated customer retention and loyalty recommendations.
+
+## Currently Building
+
+### Marketing Campaign Analytics
+
+**Focus Areas:**
+
+* Marketing Analytics
+* Campaign Performance Analysis
+* Customer Response Analysis
+* KPI Analysis
+* Business Recommendations
+
+## Core Skills
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
+* KPI Analysis
+* Time-Series Analysis
+* Customer Analytics
+* RFM Analysis
+* Customer Segmentation
+* Business Insight Generation
+* Business Recommendations
 
 ## Portfolio Highlights
 
 * Analyzed over **550,000+ records** across multiple real-world datasets.
 * Built end-to-end analytics projects from data cleaning to business recommendations.
-* Applied exploratory data analysis, feature engineering, KPI tracking, customer analytics, profitability analysis, and customer segmentation.
-* Performed RFM Analysis to identify high-value customers and customer retention opportunities.
+* Applied customer analytics, business analytics, KPI tracking, and customer segmentation techniques.
 * Created professional visualizations and documented findings through GitHub projects.
 * Developed a structured analytics workflow aligned with real-world business problems.
 
-## Upcoming Analytics Projects
+## Upcoming Projects
 
-* Marketing Campaign Analysis
+* Marketing Campaign Analytics
 * HR Analytics
 * Supply Chain Analytics
 * E-commerce Analytics
 
-## Author
+## 2026 Goals
 
-**Harsh Poonia**
+* Complete 5+ high-quality analytics projects.
+* Strengthen SQL and Data Structures & Algorithms.
+* Build a separate Machine Learning project portfolio.
+* Maintain consistent GitHub contributions.
+* Secure an internship or full-time role in Data Analytics, Data Science, or Software Development.
 
-MCA Student | Aspiring Data Analyst | Data Analytics Enthusiast
+## Connect With Me
+
+📧 Email: [harshitpoonia31@gmail.com](mailto:harshitpoonia31@gmail.com)
+
+## GitHub Focus Areas
+
+* Data Analytics
+* Data Science
+* Business Analytics
+* Customer Analytics
+* Python Development
+
+---
+
+> "The best way to learn is by building."
