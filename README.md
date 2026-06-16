@@ -43,6 +43,8 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Correlation Analysis
 * Insight Generation
 
+---
+
 ### 2. Superstore Business Analytics
 
 **Skills Applied:**
@@ -63,6 +65,8 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Evaluated the impact of discounts on profitability.
 * Generated business recommendations based on analytical findings.
 
+---
+
 ### 3. Customer Segmentation & RFM Analysis
 
 **Skills Applied:**
@@ -81,17 +85,35 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Evaluated customer engagement through recency, frequency, and monetary metrics.
 * Generated customer retention and loyalty recommendations.
 
-## Currently Building
+---
 
-### Marketing Campaign Analytics
+### 4. Marketing Campaign Analytics
 
-**Focus Areas:**
+**Skills Applied:**
 
 * Marketing Analytics
+* Customer Analytics
 * Campaign Performance Analysis
 * Customer Response Analysis
+* Feature Engineering
 * KPI Analysis
 * Business Recommendations
+
+**Key Findings:**
+
+* Customers aged 70+ exhibited the highest average spending.
+* Customers with PhD qualifications demonstrated the highest spending levels.
+* Campaign 4 achieved the highest customer acceptance.
+* The latest campaign achieved a response rate of approximately 14.94%.
+* Physical stores remained the most preferred purchasing channel.
+* Generated data-driven marketing recommendations to improve customer engagement.
+
+## Currently Building
+
+* HR Analytics
+* Supply Chain Analytics
+* E-commerce Analytics
+* Machine Learning Portfolio Projects
 
 ## Core Skills
 
@@ -100,33 +122,35 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 * Data Visualization
 * Feature Engineering
 * KPI Analysis
-* Time-Series Analysis
 * Customer Analytics
+* Marketing Analytics
 * RFM Analysis
 * Customer Segmentation
 * Business Insight Generation
 * Business Recommendations
+* Data-Driven Decision Making
 
 ## Portfolio Highlights
 
 * Analyzed over **550,000+ records** across multiple real-world datasets.
-* Built end-to-end analytics projects from data cleaning to business recommendations.
-* Applied customer analytics, business analytics, KPI tracking, and customer segmentation techniques.
+* Built **4 end-to-end analytics projects** from data cleaning to business recommendations.
+* Applied customer analytics, marketing analytics, KPI tracking, business analytics, and customer segmentation techniques.
 * Created professional visualizations and documented findings through GitHub projects.
-* Developed a structured analytics workflow aligned with real-world business problems.
+* Developed structured analytics workflows aligned with real-world business problems.
 
 ## Upcoming Projects
 
-* Marketing Campaign Analytics
 * HR Analytics
 * Supply Chain Analytics
 * E-commerce Analytics
+* Customer Churn Analysis
+* Sales Forecasting
 
 ## 2026 Goals
 
-* Complete 5+ high-quality analytics projects.
+* Complete 6+ high-quality analytics projects.
 * Strengthen SQL and Data Structures & Algorithms.
-* Build a separate Machine Learning project portfolio.
+* Build a dedicated Machine Learning project portfolio.
 * Maintain consistent GitHub contributions.
 * Secure an internship or full-time role in Data Analytics, Data Science, or Software Development.
 
@@ -138,8 +162,9 @@ My current focus is building a strong portfolio in Data Analytics and Machine Le
 
 * Data Analytics
 * Data Science
-* Business Analytics
+* Marketing Analytics
 * Customer Analytics
+* Business Analytics
 * Python Development
 
 ---
